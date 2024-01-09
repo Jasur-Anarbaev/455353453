@@ -1,0 +1,12 @@
+<svg width="493" height="26" viewBox="0 0 493 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.884277 0V9.60093H10.4852" stroke="#5B4E38" stroke-width="1.68959"/>
+<path d="M0.884277 25.0308V15.4298H10.4852" stroke="#5B4E38" stroke-width="1.68959"/>
+<line x1="0.0722657" y1="12.4257" x2="15.4155" y2="12.4257" stroke="#5B4E38" stroke-width="1.68959"/>
+<circle cx="24.0901" cy="12.3718" r="2.24048" fill="#5B4E38"/>
+<path d="M492 0V9.60093H482.399" stroke="#5B4E38" stroke-width="1.68959"/>
+<path d="M492 25.0308V15.4298H482.399" stroke="#5B4E38" stroke-width="1.68959"/>
+<line y1="-0.844795" x2="15.3433" y2="-0.844795" transform="matrix(-1 8.74228e-08 8.74228e-08 1 492.812 13.2705)" stroke="#5B4E38" stroke-width="1.68959"/>
+<circle cx="2.24048" cy="2.24048" r="2.24048" transform="matrix(-1 0 0 1 471.035 10.1313)" fill="#5B4E38"/>
+<line x1="37.502" y1="12.4257" x2="236.051" y2="12.4257" stroke="#5B4E38" stroke-width="1.68959"/>
+<line x1="256.051" y1="12.4257" x2="454.6" y2="12.4257" stroke="#5B4E38" stroke-width="1.68959"/>
+</svg>

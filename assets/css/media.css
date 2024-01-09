@@ -1,0 +1,4780 @@
+@media(max-width: 1920px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+
+@media(max-width: 1440px) {
+    .container {
+        max-width: 1200px;
+    }
+
+    .footer__blocks h1,
+    .footer__blocks a[href^="tel:"] {
+        font-size: 21px;
+        line-height: normal;
+    }
+
+    .footer__blocks a {
+        line-height: 20px;
+    }
+
+    .footer__blocks {
+        padding: 44px 29px;
+        gap: 10px;
+    }
+
+    .preFooter__title p {
+        font-size: 42px;
+    }
+
+    .book__fon {
+        width: 221.652px;
+        height: 298.564px;
+    }
+
+    .company {
+        margin-top: 79px;
+    }
+
+    .messages {
+        margin-top: 79px;
+    }
+
+    .book__details h1 {
+        font-size: 24px;
+        max-width: 247.003px;
+    }
+
+    .expert__card:nth-child(2)>div {
+        top: 49px;
+        left: -203px;
+    }
+
+    .expert__card:nth-child(3)>div {
+        left: -115px;
+    }
+
+    .expert__card:nth-child(1)>div {
+        top: -75px;
+        left: -25px;
+    }
+
+    .expert__card:nth-child(4)>div {
+        left: -184px;
+    }
+
+    .expert__card:nth-child(1)>div {
+        top: 0;
+        left: 0;
+        position: static;
+    }
+
+    .expert__card:nth-child(3)>div {
+        top: 0;
+        left: 0;
+        position: static;
+    }
+
+    .expert__card:nth-child(2)>div {
+        top: 0;
+        left: 0;
+        position: static;
+    }
+
+    .expert__card:nth-child(4)>div {
+        top: 0;
+        left: 0;
+        position: static;
+    }
+
+    .expert__card:nth-child(5)>div {
+        top: 0;
+        left: 0;
+        position: static;
+    }
+
+    .expert__card {
+        width: 300px;
+    }
+
+    .preFooter__body {
+        padding-top: 172px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 53% !important;
+    }
+
+    .planet {
+        padding-bottom: 477px;
+    }
+
+    .inf__back {
+        top: 734px;
+    }
+
+    .nature {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+        grid-row-gap: 165px;
+    }
+
+    .nature__card:nth-child(1) {
+        grid-column: 1 / 1;
+        grid-row: 1 / 1;
+    }
+
+    .nature__card:nth-child(3) {
+        grid-column: 1 / 1;
+        grid-row: 3 / 3;
+    }
+
+    .nature__man {
+        grid-column: 2 / 2;
+        grid-row: 1 / 6;
+        top: 0;
+        left: 50%;
+        transform: translate(-50%, -30%);
+    }
+
+    .nature__card:nth-child(6) {
+        grid-column: 3 / 3;
+        grid-row: 3 / 3;
+    }
+
+    .nature__card:nth-child(4) {
+        grid-column: 3 / 3;
+        grid-row: 1 / 1;
+    }
+
+    .nature__card:nth-child(5) {
+        grid-column: 3 / 3;
+        grid-row: 2 / 2;
+    }
+
+    .nature__card {
+        width: 100%;
+    }
+
+    .mountain__texts>h1 {
+        margin-bottom: 58px;
+    }
+
+    .mountain__subtext {
+        gap: 36px;
+    }
+
+    .header__burger {
+        gap: 140px;
+    }
+
+    .slider__name>h1 {
+        line-height: 24px;
+        max-width: 279px;
+    }
+
+    .nature__body h1 {
+        max-width: 305.385px;
+    }
+
+    .expert__cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .expert__card {
+        top: 0 !important;
+        left: 0 !important;
+    }
+
+    .text {
+        font-size: 43px;
+        line-height: 54px;
+        max-width: 520px;
+    }
+
+    .text span {
+        font-size: 43px;
+        font-weight: 200;
+        line-height: 54px;
+    }
+
+    .expert__book {
+        transform: translateY(-73px);
+        position: static;
+    }
+
+    .info__circel {
+        height: 55%;
+    }
+
+    .inf__back {
+        top: 1212px;
+    }
+
+    .right__gradiend {
+        display: block !important;
+        right: -44px;
+    }
+
+    .right__gradiend.active {
+        left: -44px;
+    }
+
+    .nature__line {
+        gap: 531px;
+    }
+
+    .maountain__group {
+        transform: translateX(-50%);
+        position: relative;
+        left: 52%;
+    }
+
+    .book__details h1 {
+        height: 85px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .thanks__body h1 {
+        font-size: 269.109px;
+    }
+
+    .preFooter .text span {
+        max-width: 402px;
+    }
+
+    .preFooter>img {
+        top: 159px;
+        width: 115%;
+    }
+
+    .preFooter__body {
+        margin-top: 0;
+    }
+
+    .book__details h1 {
+        font-size: 21px;
+        max-width: 237.003px;
+    }
+
+    .text {
+        max-width: 568px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 66% !important;
+    }
+
+    .maountain__group {
+        left: 54%;
+    }
+
+    .nature__pre>h1 {
+        font-size: 54px;
+    }
+
+    .nature__body {
+        padding: 32px 63px;
+    }
+
+    .nature__title {
+        top: -44%;
+    }
+
+    .overlay2 .nature__body {
+        height: fit-content;
+        top: 0;
+        min-height: 285px;
+        z-index: 1;
+    }
+
+    .nature__shadow.right {
+        width: 73%;
+    }
+
+    .header__text {
+        font-size: 18px;
+    }
+
+    .header__navigation a {
+        font-size: 14px;
+    }
+
+    .header__navigation {
+        gap: 20px;
+    }
+
+    .maountain__group {
+        transform: translateX(0);
+        left: 0;
+    }
+
+    .nature__body {
+        padding: 32px 104px;
+    }
+
+    .inf__back {
+        top: 999px;
+    }
+
+    .planet__title ul {
+        margin-bottom: 73px;
+    }
+
+    .planet {
+        padding-bottom: 412px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 55% !important;
+    }
+
+    .messages__dep img:last-child {
+        width: 79px;
+    }
+
+    .footer__blocks a {
+        line-height: 28px;
+    }
+
+    .messages__dep img:first-child {
+        width: 280px;
+        height: 280px;
+    }
+}
+
+@media(max-width: 1200px) {
+    .container {
+        max-width: 1024px;
+    }
+
+    .book__fon {
+        width: 196.652px;
+        height: 273.564px;
+    }
+
+    .book__details h1 {
+        font-size: 21px;
+        max-width: 164.003px;
+    }
+
+    .planet__title ul {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .title__man {
+        left: -14%;
+    }
+
+    .mountain__grafon {
+        margin-top: 65px;
+    }
+
+    .title__body {
+        z-index: 6;
+    }
+
+    .mountain__circle1 {
+        height: 939px;
+        bottom: -31%;
+        left: 50%;
+        border-radius: 100%;
+        transform: translateX(-50%);
+    }
+
+    .mountain__circle2 {
+        height: 999.392px;
+        transform: translate(-50%, 59%);
+    }
+
+    .mountain__circle3 {
+        height: 1376px;
+        border-radius: 50%;
+        transform: translate(-50%, 35%);
+        bottom: 5%;
+    }
+
+    .mountain__circle4 {
+        height: 2053.224px;
+        border-radius: 50%;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -72%;
+    }
+
+    .inf__back {
+        top: 32%;
+    }
+
+    .mountain__rightLeft {
+        bottom: 179px;
+    }
+
+    .maountain__group {
+        transform: translateX(3%);
+    }
+
+    .maountain__group {
+        gap: 17px;
+    }
+
+    .nature__body {
+        padding: 34px 20px;
+    }
+
+    .nature__body h1 {
+        max-width: 288.385px;
+    }
+
+    .text {
+        font-size: 37px;
+        line-height: 49px;
+        max-width: 450px;
+    }
+
+    .text span {
+        font-size: 37px;
+        line-height: 49px;
+    }
+
+    .book__details h1 {
+        margin-bottom: 0;
+    }
+
+    .book__details {
+        width: 100%;
+    }
+
+    .investers__body {
+        gap: 53px;
+    }
+
+    .planet {
+        padding-bottom: 343px;
+    }
+
+    .planet__title ul {
+        margin-bottom: 90px;
+    }
+
+    .nature__line {
+        gap: 459px;
+    }
+
+    .inf__back {
+        top: 52%;
+    }
+
+    .maountain__group {
+        transform: translateX(-50%);
+        left: 54%;
+    }
+
+    .investers {
+        margin-top: -13%;
+    }
+
+    .inf__back {
+        top: 41%;
+    }
+
+    .thanks__body h1 {
+        font-size: 228.109px;
+    }
+
+    .preFooter__body {
+        padding-bottom: 37px;
+    }
+
+    .buy {
+        width: 214px;
+        height: 74px;
+        background-size: 126%;
+    }
+
+    .preFooter>img {
+        top: 219px;
+    }
+
+    .book__details h1 {
+        font-size: 17px;
+        max-width: 164.003px;
+    }
+
+    .book__fon {
+        width: 196.652px;
+        height: 253.564px;
+    }
+
+    .text {
+        max-width: 504px;
+    }
+
+    .expert__subtitle h1 {
+        max-width: 927.23px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 73% !important;
+    }
+
+    .planet {
+        margin-top: -254px;
+    }
+
+    .info__circel {
+        height: 60%;
+    }
+
+    .inf__back {
+        top: 46%;
+    }
+
+    .nature__body {
+        padding: 34px 46px;
+    }
+
+    .title__top--subtext button {
+        padding: 16px;
+    }
+
+    .maountain__group {
+        left: 50%;
+    }
+
+    .nature__man {
+        width: 114%;
+    }
+
+    .nature__shadow.right {
+        transform: rotate(-90deg) translateX(36%) translateY(133%);
+    }
+
+    .inf__back {
+        top: 41%;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 41% !important;
+    }
+
+    .invester__case {
+        margin-left: -24px;
+    }
+
+    .buy.active {
+        padding-top: 25px;
+    }
+
+    .footer__subtext {
+        gap: 10px;
+        margin-top: 43px;
+    }
+
+    .header__networks a {
+        width: 22px;
+    }
+
+    .header__burger {
+        gap: 60px;
+    }
+
+    .header__navigation a {
+        font-size: 12px;
+    }
+
+    .header__navigation {
+        gap: 15px;
+    }
+
+    .header__text {
+        font-size: 16px;
+    }
+
+    .header__connection {
+        gap: 15px;
+    }
+
+    .maountain__group {
+        transform: translateX(0);
+        left: 0;
+    }
+
+    .mountain__texts>h1 {
+        margin-bottom: 0;
+    }
+
+    .maountain__group {
+        margin-top: 143px;
+    }
+
+    .mountain__texts {
+        transform: translateY(200px);
+    }
+
+    .messages__dep img:first-child {
+        width: 180px;
+        height: 180px;
+    }
+
+    .messages__dep img:last-child {
+        width: 50px;
+    }
+
+    .buy.activate {
+        font-size: 13px;
+    }
+
+    .footer__blocks h1,
+    .footer__blocks a[href^="tel:"] {
+        font-size: 17px;
+    }
+
+    .footer__subtext {
+        width: 70%;
+    }
+}
+
+@media(max-width: 1024px) {
+    .container {
+        max-width: 768px;
+    }
+
+    .footer__border {
+        display: none;
+    }
+
+    .footer__borders {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__blocks {
+        padding: 16px 16px;
+        gap: 18px;
+    }
+
+    .preFooter__title p {
+        font-size: 30px;
+        line-height: normal;
+    }
+
+    .footer__body {
+        align-items: flex-start;
+        gap: 12px;
+    }
+
+    .footer__title {
+        padding: 0;
+    }
+
+    .preFooter__body {
+        align-items: center;
+        padding-bottom: 35px;
+    }
+
+    .preFooter__title {
+        max-width: 333.084px;
+    }
+
+    .preFooter>img {
+        top: -92px;
+    }
+
+    .smi__title {
+        align-items: flex-start;
+        justify-content: flex-start;
+        margin-bottom: 122px;
+        flex-direction: column;
+    }
+
+    .smi__btns {
+        right: -7%;
+        top: 57px;
+    }
+
+    .books__sub {
+        align-items: flex-start;
+        justify-content: center;
+        margin-bottom: 120px;
+        flex-direction: column;
+    }
+
+    .books__btns {
+        right: -7%;
+        top: 49px;
+    }
+
+    .book__fon {
+        width: 195.652px;
+        height: 269.564px;
+    }
+
+    .messages__dep {
+        padding: 20px;
+    }
+
+    .message__btns {
+        left: 87%;
+    }
+
+    .investers__body {
+        flex-direction: column;
+        gap: 70px;
+    }
+
+    .header__burger {
+        gap: 65px;
+    }
+
+    .bookSlider .swiper-slide {
+        width: 33.3% !important;
+    }
+
+    .video__sub {
+        align-items: flex-start;
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 120px;
+    }
+
+    .video__btns {
+        right: -7%;
+        top: 46px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 66% !important;
+    }
+
+    .title__man {
+        left: -39%;
+    }
+
+    .title__body {
+        grid-column-gap: 180px;
+    }
+
+    .nature__body {
+        padding: 34px 30px;
+    }
+
+    .maountain__group {
+        flex-direction: column-reverse;
+        gap: 24px;
+    }
+
+    .mountain__subtext {
+        align-items: flex-start;
+        transform: translateX(41%);
+        gap: 22px;
+    }
+
+    .title__text {
+        font-size: 38px;
+    }
+
+    .title__text span {
+        font-size: 38px;
+    }
+
+    .nature__body h1 {
+        font-size: 13px;
+    }
+
+    .nature__body h1 span {
+        font-size: 13px;
+    }
+
+    .maountain__group {
+        transform: translateX(-14%);
+    }
+
+    .footer__blocks a[href^="tel:"] {
+        text-align: start;
+    }
+
+    .text {
+        font-size: 30px;
+        line-height: 40px;
+        max-width: 380px;
+    }
+
+    .text span {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .book__details h1 {
+        font-size: 15px;
+        max-width: 164.003px;
+    }
+
+    .buy {
+        width: 218px;
+        height: 61px;
+        font-size: 14px;
+        background-size: 110%;
+    }
+
+    .smi {
+        margin-top: 87px;
+    }
+
+    .company__body .text {
+        margin-bottom: 53px;
+    }
+
+    .inf__back {
+        top: 38%;
+        left: 50%;
+        width: 178%;
+        transform: translateX(-50%);
+    }
+
+    .planet {
+        padding-bottom: 288px;
+    }
+
+    .maountain__group {
+        transform: translateX(-66%);
+        left: 50%;
+    }
+
+    .inf__back {
+        top: 35%;
+        transform: translateX(-50%);
+    }
+
+    .planet {
+        transform: translateY(-22%);
+    }
+
+    .planet__title .text {
+        max-width: 616.376px;
+    }
+
+    .investers {
+        margin-top: -42%;
+    }
+
+    .thanks__body h1 {
+        font-size: 173.109px;
+    }
+
+    .preFooter__phone {
+        width: 330.781px;
+    }
+
+    .preFooter>img {
+        top: 378px;
+    }
+
+    .preFooter .text span {
+        font-size: 37px;
+    }
+
+    .book__fon {
+        height: 250.564px;
+    }
+
+    .text {
+        max-width: 414px;
+    }
+
+    .expert__subtitle h1 {
+        max-width: 634.23px;
+    }
+
+    .expert__subtitle h1 span {
+        font-size: 24px;
+    }
+
+    .expert__subtitle h1 {
+        font-size: 24px;
+    }
+
+    .expert__subtitle>img {
+        width: 41%;
+    }
+
+    .planet__title ul {
+        margin-bottom: 35px;
+    }
+
+    .planet__title li {
+        padding: 12px 24px;
+    }
+
+    .planet__title .text {
+        margin-bottom: 36px;
+    }
+
+    .right__gradiend {
+        display: none !important;
+    }
+
+    .nature {
+        grid-row-gap: 97px;
+    }
+
+    .nature__title {
+        top: -35%;
+    }
+
+    .planet {
+        margin-top: -119px;
+    }
+
+    .info__circel {
+        height: 58%;
+    }
+
+    .nature__line {
+        gap: 315px;
+    }
+
+    .maountain__group {
+        transform: translateX(-77%);
+    }
+
+    .title__man {
+        left: -35%;
+    }
+
+    .title__body {
+        grid-column-gap: 86px;
+    }
+
+    .title__top--subtext button {
+        padding: 11px;
+    }
+
+    .header {
+        margin-bottom: 50px;
+    }
+
+    .footer__subtext {
+        flex-direction: column;
+        margin: 0 16px;
+    }
+
+    .buy.activate {
+        font-size: 11px;
+    }
+
+    .messageSlide .swiper-slide {
+        padding: 0 8px;
+    }
+
+    .messages__dep img:first-child {
+        width: 230px;
+        height: 230px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 41% !important;
+    }
+
+    .buy.active {
+        height: 103px;
+    }
+
+    .investers__title {
+        margin-bottom: 0;
+    }
+
+    .investers__body {
+        gap: 40px;
+    }
+
+    .inf__back {
+        top: 24%;
+    }
+
+    .nature__shadow.right {
+        transform: rotate(-90deg) translateX(69%) translateY(70%);
+    }
+
+    .header__navigation {
+        display: none;
+    }
+
+    .header__inner {
+        justify-content: flex-end;
+    }
+
+    .title__top--subtext button {
+        width: 40px;
+        height: 40px;
+        padding: 10px;
+    }
+
+    .mountain__subtext:last-child {
+        align-items: flex-start;
+        text-align: left;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 55% !important;
+    }
+
+    .inf__back {
+        top: 34%;
+    }
+
+    .planet {
+        padding-bottom: 258px;
+    }
+
+    .nature__body a {
+        width: 55px;
+    }
+
+    .nature__body a img {
+        width: 100%;
+    }
+
+    .maountain__group {
+        flex-direction: row;
+    }
+
+    .mountain__subtext {
+        transform: translateX(0);
+    }
+
+    .mountain__subtext:last-child {
+        text-align: right;
+        align-items: flex-end;
+    }
+
+    .maountain__group {
+        transform: translateX(0);
+        left: 0;
+    }
+
+    .maountain__group {
+        margin: 0 17px;
+        margin-top: 143px;
+    }
+
+    .mountain__subcards {
+        max-width: 260px;
+    }
+
+    .nature__length {
+        gap: 20px;
+    }
+
+    .nature__line {
+        gap: 376px;
+    }
+}
+
+@media(max-width: 768px) {
+    .container {
+        max-width: 668px;
+    }
+
+    /* .header__networks {
+        display: none;
+    } */
+
+    .header__connection {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 71% !important;
+    }
+
+    .planet {
+        padding-bottom: 380px;
+    }
+
+    .nature__man {
+        grid-column: 2 / 2;
+        grid-row: 1 / 6;
+    }
+
+    .right__gradiend {
+        display: none !important;
+    }
+
+    .nature__body {
+        padding: 34px 10px;
+    }
+
+    .nature__title {
+        top: -36%;
+    }
+
+    .nature {
+        grid-row-gap: 103px;
+    }
+
+    .nature__pre>h1 {
+        font-size: 32px;
+    }
+
+    .mountain__subcards h1 {
+        font-size: 15px;
+    }
+
+    .mountain__subcards p {
+        font-size: 13px;
+    }
+
+    .mountain__subtext {
+        gap: 6px;
+    }
+
+    .maountain__group {
+        transform: translateX(-25%);
+    }
+
+    .title__text {
+        font-size: 29px;
+    }
+
+    .title__text span {
+        font-size: 29px;
+    }
+
+    .title__man {
+        width: 100%;
+        left: -26%;
+    }
+
+    .title__body {
+        grid-column-gap: 14px;
+        grid-row-gap: 89px;
+    }
+
+    .title__infos {
+        max-width: 241px;
+    }
+
+    .mountain__grafon {
+        margin-top: 0;
+    }
+
+    .mountain__circle1 {
+        display: none;
+    }
+
+    .mountain__circle2 {
+        display: none;
+    }
+
+    .mountain__circle3 {
+        display: none;
+    }
+
+    .mountain__circle4 {
+        display: none;
+    }
+
+    .mountain__grafon {
+        margin-top: 100px;
+        height: 966px;
+    }
+
+    .mountain__texts>h1 {
+        margin-bottom: 20px;
+    }
+
+    .mountain__subcards {
+        gap: 0;
+    }
+
+    .mountain__grafon {
+        height: 802px;
+    }
+
+    .title__card>h1 {
+        font-size: 38px;
+    }
+
+    .title__card>h2>span {
+        font-size: 16px;
+    }
+
+    .title__card>h2 {
+        font-size: 16px;
+    }
+
+    .title__bottom {
+        width: 291px;
+        height: 438.044px;
+        margin-left: 0;
+    }
+
+    .title__bottom>img:first-child {
+        left: 70px;
+        top: -53px;
+    }
+
+    .title__top--subtext button {
+        height: 46px;
+    }
+
+    .title__top--subtext p {
+        font-size: 16px;
+    }
+
+    .mountain__rightLeft {
+        bottom: 153px;
+    }
+
+    .mountain__cloud {
+        width: 156%;
+        bottom: 0;
+        left: 69%;
+        margin-bottom: 251px;
+        transform: translateX(-50%);
+    }
+
+    .swiper-button-prev {
+        background-size: 70%;
+        background-repeat: no-repeat;
+    }
+
+    .swiper-button-next {
+        background-size: 70%;
+        background-repeat: no-repeat;
+    }
+
+    .nature__body h1 {
+        margin-bottom: 5px;
+        margin-top: 22px;
+    }
+
+    .planet__title ul {
+        margin-bottom: 35px;
+    }
+
+    .right__gradiend {
+        display: block !important;
+    }
+
+    .text {
+        line-height: 42px;
+    }
+
+    .text span {
+        line-height: 30px;
+    }
+
+    .preFooter__box textarea {
+        height: 40px;
+    }
+
+    .preFooter>img {
+        top: -169px;
+    }
+
+    .book__details h1 {
+        font-size: 12px;
+    }
+
+    .book__details h1 {
+        height: 45px;
+    }
+
+
+    .book__card {
+        padding: 18px;
+    }
+
+    .book__fon {
+        max-width: 100%;
+        height: 194.564px;
+    }
+
+    .buy {
+        width: 182px;
+        height: 61px;
+        font-size: 11px;
+        background-size: 121%;
+    }
+
+    .swiper-button-next {
+        background-size: 61%;
+        background-repeat: no-repeat;
+    }
+
+    .swiper-button-prev {
+        background-size: 61%;
+        background-repeat: no-repeat;
+    }
+
+    .messages {
+        margin-top: 44px;
+    }
+
+    .expert__subtitle h1 {
+        max-width: 87%;
+    }
+
+    .expert__subtitle h1 {
+        font-size: 22px;
+    }
+
+    .expert__subtitle h1 span {
+        font-size: 22px;
+    }
+
+    .expert__subtitle>img {
+        width: 49%;
+    }
+
+    .investers__subtitle p {
+        font-size: 24px;
+        line-height: normal;
+    }
+
+    .investers__subtitle h1 {
+        font-size: 38px;
+        line-height: normal;
+        max-width: 399.207px;
+    }
+
+    .investers__subtitle h1 span {
+        font-size: 38px;
+        line-height: normal;
+    }
+
+    .planet {
+        padding-bottom: 268px;
+    }
+
+    .planet {
+        background-size: 197%;
+    }
+
+    .nature__line {
+        gap: 286px;
+    }
+
+    .maountain__group {
+        transform: translateX(-85%);
+    }
+
+    .messageSlide .swiper-slide {
+        padding: 0 10px;
+    }
+
+    .nature__man {
+        transform: translate(-50%, -25%);
+    }
+
+    .planet {
+        padding-bottom: 438px;
+    }
+
+    .info__circel {
+        height: 52%;
+    }
+
+    .investers {
+        margin-top: -75%;
+    }
+
+    .mountain__subcards {
+        max-width: 278px;
+    }
+
+    .inf__back {
+        top: 33%;
+    }
+
+    .notFound__body h1 {
+        font-size: 251.109px;
+    }
+
+    .notFound__body {
+        gap: 10px;
+    }
+
+    .thanks__body h1 {
+        font-size: 150.109px;
+    }
+
+    .thanks__body h1 {
+        font-size: 127.109px;
+    }
+
+    .right__gradiend {
+        display: none !important;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 76% !important;
+    }
+
+    .expert__book {
+        transform: translateY(-40px);
+        position: static;
+    }
+
+    .preFooter__body {
+        flex-direction: column;
+        gap: 268px;
+    }
+
+    .preFooter__phone {
+        width: 301.781px;
+    }
+
+    .footer {
+        margin-top: -191px;
+    }
+
+    .footer {
+        margin-top: -191px;
+        padding-top: 162px;
+    }
+
+    .preFooter>img {
+        top: 417px;
+        width: 189%;
+    }
+
+    .preFooter__body {
+        padding-top: 86px;
+    }
+
+    .preFooter>img {
+        top: 331px;
+    }
+
+    .nature__body h1 {
+        margin-bottom: auto;
+        margin-top: auto;
+    }
+
+    .expert__main {
+        top: 100px;
+    }
+
+    .expert__subtitle {
+        margin-top: 207px;
+    }
+
+    .mountain__grafon {
+        height: 869px;
+    }
+
+    .planet__title ul {
+        margin-bottom: 130px;
+    }
+
+    .planet {
+        padding-bottom: 380px;
+    }
+
+    .header__burger {
+        gap: 12px;
+        flex-direction: column;
+    }
+
+    .messages__dep img:first-child {
+        width: 210px;
+        height: 210px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 55% !important;
+    }
+
+    .buy.active {
+        padding-top: 16px;
+    }
+
+    .planet {
+        padding-bottom: 515px;
+        margin-top: -100px;
+    }
+
+    .nature__body {
+        padding: 34px 24px;
+    }
+
+    .maountain__group {
+        transform: translateX(0);
+    }
+
+    .maountain__group {
+        margin-top: 120px;
+    }
+
+    .mountain__subcards {
+        max-width: 240px;
+    }
+}
+
+@media(max-width: 668px) {
+    .container {
+        max-width: 568px;
+    }
+
+    .title__left {
+        grid-row: 2 / 2;
+        grid-column: 1 / 1;
+    }
+
+    .title__top {
+        grid-row: 1 / 1;
+        grid-column: 1 / 1;
+    }
+
+    .title__bottom {
+        grid-row: 3 / 3;
+        grid-column: 1 / 1;
+    }
+
+    .title__body {
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.8fr 0.8fr 1fr;
+    }
+
+    .title__top--subtext button {
+        width: 45px;
+    }
+
+    .title__infos {
+        max-width: 257px;
+    }
+
+    .title__text {
+        max-width: 466px;
+    }
+
+    .title__body {
+        grid-column-gap: 0;
+        grid-row-gap: 0;
+    }
+
+    .title__man {
+        top: 241px;
+    }
+
+    .title__bottom {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .maountain__group {
+        transform: translateX(-26%);
+    }
+
+    .mountain__rightLeft {
+        bottom: 108px;
+    }
+
+    .title__man::before {
+        height: 154px;
+    }
+
+    .nature__body>img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .book__fon {
+        width: 127.652px;
+        height: 163px;
+    }
+
+    .book__details h1 {
+        font-size: 15px;
+        max-width: 122.003px;
+        margin-bottom: 1px;
+        line-height: normal;
+    }
+
+    .book__details .buy {
+        width: 300px;
+        height: 61px;
+        font-size: 11px;
+        line-height: normal;
+        background-size: 72%;
+        background-repeat: no-repeat;
+    }
+
+    .book__card {
+        border-radius: 24px;
+        padding: 14px;
+    }
+
+    .smi {
+        margin-top: 39px;
+    }
+
+    .company__logo img {
+        width: 25%;
+    }
+
+    .company__body h1 {
+        margin-bottom: 50px;
+    }
+
+    .company {
+        margin-top: 40px;
+    }
+
+    .message__subtitle {
+        margin-bottom: 30px;
+    }
+
+    .messages {
+        margin-top: 42px;
+    }
+
+    .video {
+        margin-top: 115px;
+    }
+
+    .expert__book {
+        transform: translateY(-53px);
+    }
+
+    .investers__body {
+        gap: 19px;
+    }
+
+    .investers__title {
+        gap: 51px;
+    }
+
+    .planet {
+        padding-bottom: 232px;
+    }
+
+    .maountain__group {
+        transform: translateX(-87%);
+    }
+
+    .book__details h1 {
+        font-size: 11px;
+    }
+
+    .book__details .buy {
+        width: 138px;
+        height: 52px;
+        background-size: 138%;
+    }
+
+    .investers__subtitle p {
+        max-width: 399.725px;
+    }
+
+    .nature {
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+        grid-row-gap: 67px;
+        padding-top: 303px;
+    }
+
+    .nature__title h1 {
+        font-size: 40px;
+    }
+
+    .nature__card:nth-child(6) .nature__title h1 {
+        font-size: 40px;
+    }
+
+    .right__gradiend {
+        display: none !important;
+    }
+
+    .nature__title {
+        top: -23%;
+    }
+
+    .planet {
+        background-size: 269%;
+    }
+
+    .inf__back {
+        top: 37%;
+    }
+
+    .planet__title {
+        transform: translateY(-27%);
+    }
+
+    .footer__borders {
+        gap: 25px;
+    }
+
+    .planet {
+        padding-bottom: 385px;
+    }
+
+    .planet__title {
+        transform: translateY(-12%);
+    }
+
+    .planet__title li {
+        padding: 12px 24px;
+    }
+
+    .planet {
+        padding-bottom: 486px;
+    }
+
+    .planet__title {
+        transform: translateY(15%);
+    }
+
+    .planet {
+        padding-bottom: 633px;
+    }
+
+    .info__circel {
+        height: 47%;
+    }
+
+    .investers {
+        margin-top: -112%;
+    }
+
+    .mountain__subcards p {
+        line-height: 17px;
+    }
+
+    .mountain__subcards p {
+        max-width: 266px;
+    }
+
+    .title__bottom {
+        margin-top: 23px;
+    }
+
+    .preFooter>img {
+        top: 331px;
+    }
+
+    .preFooter>img {
+        top: 328px;
+        width: 226%;
+    }
+
+    .footer__borders {
+        gap: 0;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 90% !important;
+    }
+
+    .info__circel {
+        height: 50%;
+    }
+
+    .inf__back {
+        top: 34%;
+    }
+
+    .nature__body h1 span {
+        font-size: 10px;
+        line-height: normal;
+    }
+
+    .nature__body h1 {
+        font-size: 10px;
+        line-height: 19px;
+    }
+
+    .nature__body button {
+        font-size: 14px;
+    }
+
+    .nature__line {
+        gap: 246px;
+    }
+
+    .nature__length {
+        gap: 28px;
+    }
+
+    .book__fon {
+        height: 162px;
+    }
+
+    .expert__book {
+        transform: translateY(-10px);
+    }
+
+    .nature__body {
+        padding: 34px 16px;
+    }
+
+    .mountain__subcards {
+        max-width: 259px;
+    }
+
+    .book__details h1 {
+        font-size: 10px;
+        max-width: 107.003px;
+    }
+
+    .title__man {
+        top: 309px;
+    }
+
+    .footer__body {
+        margin-top: 10px;
+    }
+
+    .planet {
+        padding-bottom: 670px;
+    }
+
+    .planet__title ul {
+        margin-bottom: 113px;
+    }
+
+    .planet {
+        margin-top: -76px;
+    }
+
+    .info__circel {
+        height: 48%;
+    }
+
+    .maountain__group {
+        transform: translateX(0);
+    }
+
+    .mountain__subtext {
+        gap: 20px;
+    }
+
+    .mountain__subcards {
+        max-width: 227px;
+    }
+
+    .nature__shadow.right {
+        width: 100%;
+    }
+
+    .nature__shadow.right {
+        transform: rotate(-90deg) translateX(60%) translateY(80%);
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 55% !important;
+    }
+
+    .videoSlide .swiper-slide {
+        height: 263.818px;
+    }
+
+    .messages__dep img:first-child {
+        width: 175px;
+        height: 175px;
+    }
+
+    .messages__dep img:last-child {
+        width: 36px;
+    }
+
+    .messages__dep {
+        gap: 10px;
+    }
+
+    .buy.activate {
+        font-size: 8px;
+    }
+
+    .nature__body::before {
+        border-radius: 27px;
+    }
+
+    .messages__dep {
+        justify-content: space-between;
+    }
+
+    .messages__dep img:first-child {
+        width: 242px;
+        height: 242px;
+    }
+}
+
+@media(max-width: 568px) {
+    .container {
+        max-width: 425px;
+    }
+
+    .footer__body {
+        flex-direction: column;
+    }
+
+    .footer__blocks {
+        padding: 16px 0;
+        gap: 18px;
+    }
+
+    .preFooter__body {
+        flex-direction: column;
+        gap: 240px;
+        padding-top: 0;
+    }
+
+    .preFooter>img {
+        top: 15%;
+        width: 315%;
+    }
+
+    .preFooter__title h1 {
+        font-size: 24px;
+    }
+
+    .preFooter__title p {
+        font-size: 24px;
+    }
+
+    .preFooter__title {
+        display: flex;
+        flex-direction: column;
+        gap: 17px;
+    }
+
+    .preFooter {
+        transform: translateY(20%);
+    }
+
+    .footer {
+        padding-top: 47%;
+    }
+
+    .footer__title h1 {
+        color: #968E7F;
+        font-family: Inter;
+        font-size: 21px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 32px;
+        max-width: 100%;
+    }
+
+    .footer__title {
+        gap: 12px;
+    }
+
+    .footer__title p {
+        color: #847A69;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 18px;
+        max-width: 100%;
+    }
+
+    .footer__title {
+        width: 100%;
+    }
+
+    .preFooter__body {
+        margin-top: -111px;
+    }
+
+    .smmSlider .swiper-slide {
+        width: 50% !important;
+    }
+
+    .smmSlider .swiper-slide-active {
+        width: 66.3% !important;
+    }
+
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: -30px !important;
+        right: auto !important;
+    }
+
+    .swiper-button-next,
+    .swiper-rtl .swiper-button-prev {
+        right: 0;
+        left: 43px;
+    }
+
+    .smi {
+        margin-top: 86px;
+    }
+
+    .book__fon {
+        width: 142.652px;
+        height: 192.564px;
+    }
+
+
+    .book__details h1 {
+        font-size: 14px;
+        max-width: 164.003px;
+    }
+
+    .company__logo img {
+        width: 45%;
+    }
+
+    .company__body h1 {
+        font-size: 38px;
+        margin-bottom: 60px;
+    }
+
+    .smmSlider .swiper-slide {
+        width: 100% !important;
+    }
+
+    .book__fon {
+        width: 129.652px;
+        height: 166.564px;
+    }
+
+    .book__card {
+        padding: 16px 16px;
+    }
+
+    .book__details h1 {
+        margin-bottom: 0;
+    }
+
+    .buy {
+        font-size: 11px;
+        width: 140%;
+        height: 52px;
+    }
+
+    .message__btns {
+        left: 79%;
+    }
+
+    .message__subtitle {
+        margin-bottom: 24px;
+    }
+
+    .messages {
+        margin-top: 36px;
+    }
+
+    .expert__subtitle h1 {
+        font-size: 18px;
+        line-height: normal;
+    }
+
+    .expert__subtitle h1 span {
+        font-size: 18px;
+        line-height: normal;
+    }
+
+    .expert__subtitle>img {
+        width: 60%;
+    }
+
+    .video {
+        margin-top: 92px;
+    }
+
+    .expert__book {
+        transform: translateY(0);
+        position: static;
+    }
+
+    .expert__body {
+        margin-top: 41%;
+    }
+
+    .preFooter__phone .buy {
+        font-size: 19px;
+        width: 100%;
+        height: 80px;
+    }
+
+    .invester__parent {
+        width: 100%;
+    }
+
+    .investers__subtitle p {
+        max-width: 404.725px;
+    }
+
+    .investers__subtitle h1 {
+        font-size: 38px;
+    }
+
+    .investers__subtitle h1 span {
+        font-size: 38px;
+    }
+
+    .investers__subtitle p {
+        font-size: 26px;
+    }
+
+    .planet .buy {
+        font-size: 11px;
+        width: 52%;
+        height: 52px;
+    }
+
+    .planet__title li span {
+        font-size: 13px;
+    }
+
+    .planet__title li {
+        font-size: 13px;
+    }
+
+    .inf__back {
+        top: 41%;
+    }
+
+    .nature {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+    }
+
+    .nature__man {
+        grid-column: 1 / 1;
+        grid-row: 1 / 3;
+        left: 55%;
+    }
+
+    .nature__card:nth-child(1) {
+        grid-column: 1 / 1;
+        grid-row: 3 / 3;
+    }
+
+    .nature__card:nth-child(2) {
+        grid-column: 2 / 2;
+        grid-row: 3 / 3;
+    }
+
+    .nature__card:nth-child(3) {
+        grid-column: 1 / 1;
+        grid-row: 4 / 4;
+    }
+
+    .nature__card:nth-child(4) {
+        grid-column: 2 / 2;
+        grid-row: 4 / 4;
+    }
+
+    .nature__card:nth-child(5) {
+        grid-column: 1 / 1;
+        grid-row: 5 / 5;
+    }
+
+    .nature__card:nth-child(6) {
+        grid-column: 2 / 2;
+        grid-row: 5 / 5;
+    }
+
+    .nature {
+        padding-top: 162px;
+        grid-column-gap: 17px;
+    }
+
+    .nature__card {
+        width: 100%;
+        transform: translateY(-62%);
+    }
+
+    .info__circel {
+        height: 1698px;
+    }
+
+    .inf__back {
+        top: 45%;
+    }
+
+    .info__fon {
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .mountain__texts>h1 {
+        font-size: 38px;
+    }
+
+    .mountain__grafon {
+        transform: translateX(-40%);
+        width: 201%;
+    }
+
+    .mountain__texts {
+        transform: translateX(0);
+    }
+
+    .title__bottom .buy {
+        font-size: 11px;
+        width: 68%;
+        height: 52px;
+    }
+
+    .nature__body h1 {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    .title__bottom {
+        width: 242px;
+        height: 374.044px;
+    }
+
+    .title__card>h1 {
+        font-size: 32px;
+    }
+
+    .title__card>h2 {
+        font-size: 12px;
+        line-height: normal;
+    }
+
+    .title__card>h2>span {
+        font-size: 12px;
+        line-height: normal;
+    }
+
+    .title__bottom>img:first-child {
+        left: 59px;
+        top: -52px;
+    }
+
+    .title__man {
+        width: 76%;
+        left: -17%;
+        top: 289px;
+    }
+
+    .investers__body {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 93% !important;
+    }
+
+    .investerSwiper .swiper-slide-active {
+        width: 93% !important;
+    }
+
+    .nature__line {
+        gap: 205px;
+    }
+
+    .nature__length {
+        gap: 18px;
+    }
+
+    .mountain__cloud {
+        left: 114%;
+    }
+
+    .title__man::before {
+        width: 78%;
+    }
+
+    .title__man::before {
+        height: 256px;
+    }
+
+    .mountain__grafon {
+        height: 735px;
+    }
+
+    .mountain__grafon {
+        margin-top: 54px;
+    }
+
+    .preFooter>img {
+        top: 10%;
+    }
+
+    .preFooter__body {
+        gap: 170px;
+    }
+
+    .footer {
+        padding: 14px;
+    }
+
+    .footer {
+        padding-top: 45%;
+    }
+
+    .mountain__texts>h1 {
+        text-align: end;
+    }
+
+    .footer__blocks {
+        padding: 8px 0;
+    }
+
+    .book__fon {
+        width: 85.652px;
+        height: 107.564px;
+    }
+
+    .book__details .buy {
+        width: 143px;
+        height: 41px;
+        font-size: 8px;
+        background-size: 100%;
+    }
+
+    .smi {
+        margin-top: 34px;
+    }
+
+    .smi__title {
+        margin-bottom: 91px;
+    }
+
+    .smi__btns {
+        right: -7%;
+        top: 31px;
+    }
+
+    .bookSlider .swiper-slide {
+        width: 50% !important;
+    }
+
+    .book__details h1 {
+        font-size: 9px;
+        max-width: 87.003px;
+    }
+
+    .book__fon {
+        width: 107.652px;
+        height: 134.564px;
+    }
+
+    .company__body h1 {
+        font-size: 28px;
+        margin-bottom: 19px;
+    }
+
+    .expert__subtitle {
+        margin-top: 70px;
+    }
+
+    .video {
+        margin-top: 66px;
+    }
+
+    .expert__book {
+        transform: translateY(-24px);
+    }
+
+    .investers__subtitle h1 span {
+        font-size: 28px;
+        line-height: normal;
+    }
+
+    .investers__subtitle h1 {
+        font-size: 28px;
+        line-height: normal;
+    }
+
+    .investers__subtitle p {
+        font-size: 22px;
+        line-height: normal;
+    }
+
+    .planet {
+        padding-bottom: 173px;
+    }
+
+    .planet__title li {
+        padding: 6px 17px;
+    }
+
+    .nature {
+        display: flex;
+        flex-direction: column;
+        padding-top: 0;
+    }
+
+    .nature__card:nth-child(1) {
+        margin-top: 177px;
+    }
+
+    .nature__man {
+        grid-column: 1 / 1;
+        grid-row: 1 / 3;
+        left: 0;
+        transform: translateX(0);
+        height: 84%;
+        order: -1;
+        width: 100%;
+    }
+
+    .nature__pre>img {
+        width: 141%;
+        transform: translateX(1%);
+        position: relative;
+    }
+
+    .nature__pre>h1 {
+        font-size: 43px;
+    }
+
+    .nature__star img {
+        width: 70px;
+        height: 69px;
+    }
+
+    .nature__star img:nth-child(2) {
+        width: 90px;
+        height: 90px;
+    }
+
+    .nature__line {
+        gap: 0;
+    }
+
+    .info__circel {
+        height: 83%;
+    }
+
+    .right__gradiend {
+        display: none !important;
+    }
+
+    .nature__body {
+        height: 229.962px;
+    }
+
+    .inf__back {
+        top: 77%;
+    }
+
+    .nature__body h1 span {
+        font-size: 18px;
+    }
+
+    .nature__body h1 {
+        font-size: 15px;
+    }
+
+    .maountain__group {
+        transform: translateX(-97%);
+    }
+
+    .maountain__group {
+        transform: translateX(-95%);
+    }
+
+
+    .preFooter__phone {
+        width: 84%;
+    }
+
+    .preFooter__check p {
+        font-size: 9px;
+        line-height: normal;
+        max-width: 142px;
+    }
+
+    .preFooter__phone .buy {
+        height: 40px;
+        font-size: 13px;
+    }
+
+    .preFooter__phone {
+        width: 80%;
+    }
+
+    .preFooter__box>input {
+        width: 100%;
+    }
+
+    .preFooter__phone .buy {
+        font-size: 19px;
+        width: 74%;
+        height: 68px;
+    }
+
+    .footer {
+        padding-top: 44%;
+    }
+
+    .book__fon {
+        width: 100%;
+        height: 172.564px;
+    }
+
+    .info__circel {
+        height: 74%;
+    }
+
+    .planet {
+        padding-bottom: 344px;
+    }
+
+    .inf__back {
+        top: 66%;
+    }
+
+    .planet .buy {
+        font-size: 14px;
+        width: 52%;
+        height: 61px;
+    }
+
+    .planet {
+        padding-bottom: 487px;
+    }
+
+    .planet__title {
+        transform: translateY(0);
+    }
+
+    .planet {
+        margin-top: 42%;
+    }
+
+    .info__circel {
+        height: 71%;
+    }
+
+    .planet {
+        padding-bottom: 407px;
+    }
+
+    .maountain__group {
+        transform: translateX(-109%);
+    }
+
+    .preFooter__check p {
+        text-align: center;
+    }
+
+    .swiper-button-next,
+    .swiper-rtl .swiper-button-prev {
+        left: 54px;
+    }
+
+    .smi__btns .swiper-pagination.active {
+        color: #FFF;
+        font-family: Inter;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        display: flex;
+    }
+
+    .swiper-horizontal>.swiper-pagination-bullets,
+    .swiper-pagination-bullets.swiper-pagination-horizontal,
+    .swiper-pagination-custom,
+    .swiper-pagination-fraction {
+        left: 7px;
+    }
+
+    .text {
+        line-height: 27px;
+    }
+
+    .smi {
+        margin-bottom: 190px;
+    }
+
+    .smi__btns {
+        top: 39px;
+    }
+
+    .preFooter__title {
+        margin-top: -189px;
+    }
+
+    .expert__title img:first-child {
+        width: 85%;
+    }
+
+    .preFooter>img {
+        top: -10%;
+        width: 315%;
+    }
+
+    .preFooter__phone {
+        transform: translateY(13%);
+    }
+
+    .footer {
+        padding-top: 56%;
+    }
+
+    .maountain__group {
+        transform: translateX(-94%);
+    }
+
+    .mountain__texts>h1 {
+        text-align: center;
+    }
+
+    .mountain__subtext {
+        gap: 21px;
+    }
+
+    .title__bottom {
+        margin-top: -8px;
+    }
+
+    .notFound__body h1 {
+        font-size: 174.109px;
+    }
+
+    .notFound__body p {
+        font-size: 19px;
+        line-height: normal;
+    }
+
+    .buy {
+        height: 41px;
+    }
+
+    .notFound__body a {
+        width: 44%;
+        text-align: center;
+    }
+
+    .notFound__body a button {
+        width: 86%;
+    }
+
+    .thanks__body h1 {
+        font-size: 94.109px;
+    }
+
+    .thanks__body p {
+        font-size: 18px;
+    }
+
+    .thanks__body {
+        gap: 10px;
+    }
+
+    .thanks__body a {
+        width: 36%;
+        text-align: center;
+    }
+
+    .thanks__body a button {
+        width: 100%;
+    }
+
+    .preFooter>img {
+        top: -10%;
+        width: 230%;
+    }
+
+    .preFooter__body {
+        gap: 232px;
+    }
+
+    .preFooter>img {
+        top: -4%;
+        width: 230%;
+    }
+
+    .preFooter__phone {
+        padding: 24px 20px;
+    }
+
+    .preFooter__phone {
+        width: 70%;
+    }
+
+    .preFooter__check p {
+        font-size: 8px;
+    }
+
+    .preFooter>img {
+        top: -2%;
+        width: 200%;
+    }
+
+    .footer {
+        padding-top: 99%;
+    }
+
+    .info__circel {
+        height: 73%;
+    }
+
+    .nature__man {
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80%;
+    }
+
+    .nature__body {
+        width: 80%;
+        padding: 34px 10px;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .footer {
+        padding-top: 386px;
+    }
+
+    .footer__borders {
+        gap: 18px;
+    }
+
+    .maountain__group {
+        transform: translateX(-90%);
+    }
+
+    .nature__man {
+        width: 100%;
+    }
+
+    .nature__body {
+        width: 100%;
+    }
+
+    .nature__man {
+        width: 80%;
+    }
+
+    .nature__body {
+        width: 80%;
+    }
+
+    .expert__subtitle {
+        margin-top: 162px;
+    }
+
+    .expert__body {
+        margin-top: 4%;
+    }
+
+    .nature__body h1 {
+        margin-bottom: auto;
+        margin-top: auto;
+    }
+
+    .nature__shadow.right {
+        width: 91%;
+    }
+
+    .nature__shadow.right {
+        transform: rotate(-90deg) translateX(25%) translateY(166%);
+    }
+
+    .nature {
+        grid-row-gap: 62px;
+    }
+
+    .mountain__subcards {
+        max-width: 233px;
+    }
+
+    .mountain__grafon {
+        height: 890px;
+    }
+
+    .nature__body h1 {
+        font-size: 19px;
+    }
+
+    .overlay2 {
+        z-index: 9;
+    }
+
+    .maountain__group {
+        transform: translateX(0%);
+        left: 0;
+    }
+
+    .mountain__subcards {
+        max-width: 301px;
+        transform: translateX(-100%);
+    }
+
+    .maountain__group {
+        transform: translateX(38%);
+        left: 0;
+    }
+
+    .mountain__subcards {
+        max-width: 243px;
+    }
+
+    .maountain__group {
+        transform: translateX(28%);
+    }
+
+    .maountain__group {
+        transform: translateX(0%);
+    }
+
+    .mountain__subcards {
+        max-width: 308px;
+    }
+
+    .mountain__grafon {
+        transform: translateX(-51%);
+    }
+
+    .footer__body {
+        margin-top: 25px;
+    }
+
+    .footer__blocks a[href^="tel:"] {
+        font-size: 32px;
+    }
+
+    .footer__sotset {
+        display: flex;
+        gap: 14px;
+    }
+
+    .footer__title {
+        gap: 4px;
+    }
+
+    .footer__title p {
+        font-size: 14px;
+    }
+
+    .footer__body {
+        gap: 37px;
+    }
+
+    .preFooter__check p {
+        font-size: 9px;
+        max-width: 164px;
+        text-align: left;
+    }
+
+    .preFooter__phone .buy {
+        font-size: 16px;
+        width: 68%;
+        height: 61px;
+        background-size: 150%;
+        background-position-y: 11%;
+    }
+
+    .preFooter__phone .buy {
+        margin-top: 16px;
+    }
+
+    .preFooter__box textarea {
+        height: 48px;
+    }
+
+    .preFooter .text span {
+        font-size: 33px;
+        max-width: 311px;
+    }
+
+    .preFooter__title h1 {
+        font-size: 27px;
+    }
+
+    .swiper-button-next {
+        background-size: 50%;
+    }
+
+    .swiper-button-prev {
+        background-size: 50%;
+    }
+
+    .book__details .buy {
+        width: 143px;
+        height: 50px;
+        font-size: 9px;
+        background-size: 121%;
+    }
+
+    .book__details h1 {
+        font-size: 11px;
+        max-width: 104.003px;
+    }
+
+    .smi {
+        margin-bottom: 219px;
+    }
+
+    .smi {
+        margin-top: 70px;
+    }
+
+    .swiper-button-next.swiper-button-disabled {
+        background-size: 45%;
+    }
+
+    .swiper-button-prev.swiper-button-disabled {
+        background-size: 45%;
+    }
+
+    .swiper-pagination-bullet.swiper-pagination-bullet-active {
+        font-size: 16px;
+        transform: translateY(52%);
+    }
+
+    .smi .swiper-button-next,
+    .smi .swiper-rtl .swiper-button-prev {
+        left: 35px;
+    }
+
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: -27px !important;
+    }
+
+    .smi__btns {
+        right: -10%;
+    }
+
+    .swiper-button-next {
+        background-size: 45%;
+    }
+
+    .swiper-button-prev {
+        background-size: 45%;
+    }
+
+    .swiper-button-next,
+    .swiper-rtl .swiper-button-prev {
+        left: 25px;
+    }
+
+    .video__btns .swiper-button-next,
+    .video__btns .swiper-rtl .swiper-button-prev {
+        left: 43px;
+    }
+
+    .message__btns {
+        left: 12%;
+    }
+
+    .investers__btns .swiper-button-next,
+    .investers__btns .swiper-rtl .swiper-button-prev {
+        left: 46px;
+    }
+
+    .info__circel {
+        height: 70%;
+    }
+
+    .inf__back {
+        top: 56%;
+        width: 338%;
+    }
+
+    .nature__line {
+        gap: 333px;
+    }
+
+    .gold__mountain {
+        width: 130%;
+    }
+
+    .mountain__bottom {
+        width: 166%;
+        transform: translateX(-39%);
+    }
+
+    .mountain__rightLeft {
+        width: 130%;
+        transform: translateX(28%);
+    }
+
+    .planet__title ul {
+        margin-bottom: 210px;
+    }
+
+    .header__connection button {
+        font-size: 12px;
+        padding: 10px 25px;
+    }
+
+    .header__text {
+        font-size: 14px;
+    }
+
+    .header__logo {
+        width: 100.845px;
+        height: 120.099px;
+    }
+
+    .title__bottom>img:first-child {
+        top: -43px;
+    }
+
+    .title__bottom .buy {
+        height: 82px;
+    }
+
+    .mountain__subcards {
+        transform: translateX(0);
+    }
+
+    .maountain__group {
+        flex-direction: column;
+    }
+
+    .mountain__subtext:last-child {
+        text-align: left;
+        align-items: flex-start;
+    }
+
+    .mountain__subcards {
+        max-width: 450px;
+    }
+
+    .mountain__subcards p {
+        max-width: 370px;
+    }
+
+    .maountain__group {
+        margin-top: 98px;
+    }
+
+    .planet {
+        padding-bottom: 538px;
+    }
+
+    .inf__back {
+        top: 51%;
+        width: 338%;
+    }
+
+    .info__circel {
+        height: 67%;
+    }
+
+    .inf__back {
+        top: 48%;
+    }
+
+    .buy.case {
+        height: 59px;
+        padding-top: 6px;
+        background-size: 136%;
+        width: 167%;
+    }
+
+    .invester__case {
+        margin-left: -4px;
+    }
+
+    .investers__btns {
+        margin-left: 23px;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 480px !important;
+    }
+
+    .investerSwiper .swiper-slide>div {
+        width: 372px;
+    }
+
+    .investerSwiper .swiper-slide-active .slider__hover {
+        width: 50px;
+    }
+
+    .messages__dep {
+        border-radius: 29px;
+    }
+
+    .messages__dep img:first-child {
+        width: 242px;
+        height: 174px;
+    }
+
+    .messages__dep {
+        padding: 14px;
+    }
+
+    .buy.activate {
+        font-size: 7px;
+    }
+
+    .footer__subtext {
+        width: 100%;
+    }
+
+    .footer__blocks a[href^="tel:"] {
+        font-size: 24px;
+    }
+
+    .footer__subtext {
+        margin: 0;
+        margin-top: 18px;
+    }
+
+    .footer__body {
+        gap: 18px;
+    }
+
+    .footer__title {
+        gap: 15px;
+    }
+
+    .book__card {
+        padding: 15px 16px;
+    }
+
+    /* .planet {
+        padding-bottom: 348px;
+    } */
+
+    .inf__back {
+        top: 53%;
+    }
+
+    .mountain__subcards {
+        max-width: 291px;
+    }
+
+    .maountain__group {
+        margin: 0 12%;
+        margin-top: 70px;
+    }
+
+    .planet {
+        padding-bottom: 399px;
+    }
+
+}
+
+@media(max-width: 425px) {
+    .container {
+        max-width: 375px;
+    }
+
+    .preFooter__phone {
+        width: 101%;
+    }
+
+    .preFooter>img {
+        top: 12%;
+        width: 382%;
+    }
+
+    .preFooter__body {
+        gap: 252px;
+    }
+
+    .footer {
+        padding-top: 49%;
+    }
+
+    .bookSlider .swiper-slide {
+        width: 68% !important;
+    }
+
+    .slider__info>p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .slider__name>h1 {
+        line-height: normal;
+        max-width: 207px;
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+
+    .slider__name>p {
+        font-size: 14px;
+        line-height: normal;
+    }
+
+    .planet {
+        padding-bottom: 122px;
+    }
+
+    .planet__title li {
+        font-size: 12px;
+    }
+
+    .planet__title li span {
+        font-size: 12px;
+    }
+
+
+    .info__circel {
+        height: 80%;
+    }
+
+    .inf__back {
+        top: 76%;
+    }
+
+    .nature__card {
+        width: 70%;
+    }
+
+    .nature__body>img {
+        width: 52px;
+        height: 52px;
+    }
+
+    .nature {
+        align-items: center;
+    }
+
+    .maountain__group {
+        transform: translateX(-35%);
+    }
+
+    .mountain__texts>h1 {
+        font-size: 30px;
+    }
+
+    .header__text {
+        font-size: 14px;
+    }
+
+    .header__connection button {
+        font-size: 8px;
+        padding: 7px 21px;
+    }
+
+    .header__logo {
+        width: 94.845px;
+        height: 122.099px;
+    }
+
+    .title__text {
+        font-size: 24px;
+    }
+
+    .title__text span {
+        font-size: 24px;
+    }
+
+    .title__text {
+        margin-top: 22px;
+    }
+
+    .title__infos h1 {
+        font-size: 14px;
+    }
+
+    .title__infos p {
+        font-size: 12px;
+    }
+
+    .title__infos {
+        max-width: 155px;
+    }
+
+    .title__top--subtext p {
+        font-size: 14px;
+    }
+
+    .title__top--subtext button {
+        height: 40px;
+    }
+
+    .circle1 {
+        border-radius: 1193.271px;
+        transform: translate(-82%, -61%);
+    }
+
+    .circle2 {
+        transform: translate(-80%, -63%);
+    }
+
+    .circle3 {
+        border: 126px solid rgba(89, 60, 29, 0.27);
+        transform: translate(-75%, -68%) rotate(93deg);
+    }
+
+    .circle4 {
+        transform: translate(-51%, -46%);
+    }
+
+    .title__top--subtext p {
+        max-width: 188px;
+    }
+
+    .title__top--subtext {
+        gap: 0;
+    }
+
+    .circle4__child img {
+        width: 12.689px;
+        height: 12.75px;
+    }
+
+    .title__bottom>img:first-child {
+        top: -43px;
+    }
+
+    .mountain__texts>h1 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .mountain__subcards h1 {
+        font-size: 10px;
+        line-height: normal;
+    }
+
+    .mountain__subcards p {
+        font-size: 10px;
+        line-height: 22px;
+    }
+
+    .mountain__parent {
+        transform: translateY(28%);
+    }
+
+    .nature {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .nature__card {
+        width: 100%;
+    }
+
+    .nature__pre>h1 {
+        font-size: 34px;
+    }
+
+    .mountain__grafon {
+        transform: translateX(-43%);
+    }
+
+    .footer {
+        padding-top: 54%;
+    }
+
+    .maountain__group {
+        transform: translateX(-35%);
+    }
+
+    .footer__borders {
+        gap: 21px;
+    }
+
+    .preFooter__phone .buy {
+        height: 54px;
+        background-size: 89%;
+    }
+
+    .preFooter__box {
+        padding: 13px 16px;
+    }
+
+    .preFooter__phone .buy {
+        height: 48px;
+        background-size: 118%;
+        font-size: 15px;
+        width: 50%;
+    }
+
+    .preFooter__check p {
+        text-align: center;
+    }
+
+    .text {
+        line-height: normal;
+    }
+
+    .text span {
+        line-height: normal;
+    }
+
+    .book__fon {
+        width: 100%;
+        height: 219.564px;
+    }
+
+    .book__details h1 {
+        font-size: 12px;
+        max-width: 137.003px;
+    }
+
+    .books {
+        margin-top: 50px;
+    }
+
+    .planet__title .text {
+        font-size: 21px;
+    }
+
+    .planet__title .text span {
+        font-size: 21px;
+        line-height: normal;
+    }
+
+    .planet__title {
+        transform: translateY(-4%);
+    }
+
+    .inf__back {
+        top: 70%;
+    }
+
+    .maountain__group {
+        transform: translateX(-94%);
+    }
+
+    .mountain__subcards {
+        max-width: 251px;
+    }
+
+    .bookSlider .swiper-slide {
+        width: 67% !important;
+    }
+
+    .nature__title {
+        top: -27%;
+    }
+
+    .info__circel {
+        height: 71%;
+    }
+
+    .planet {
+        padding-bottom: 322px;
+    }
+
+    .maountain__group {
+        transform: translateX(-108%);
+    }
+
+    .mountain__subcards {
+        max-width: 227px;
+    }
+
+    .preFooter__phone {
+        width: 81%;
+    }
+
+    .preFooter__phone .buy {
+        height: 42px;
+        background-size: 125%;
+        font-size: 13px;
+    }
+
+    .text {
+        font-size: 23px;
+    }
+
+    .text span {
+        font-size: 23px;
+    }
+
+    .preFooter>img {
+        top: -18%;
+    }
+
+    .smi {
+        margin-bottom: 274px;
+    }
+
+    .preFooter__title {
+        margin-top: -236px;
+    }
+
+    .maountain__group {
+        transform: translateX(-95%);
+    }
+
+    .mountain__texts {
+        transform: translateY(-29%);
+        display: flex;
+        flex-direction: column;
+        gap: 58px;
+    }
+
+    .mountain__subcards {
+        max-width: 195px;
+    }
+
+    .mountain__subcards p {
+        max-width: 168px;
+    }
+
+    .mountain__subcards h1 {
+        max-width: 173px;
+    }
+
+    .mountain__subcards h1 {
+        line-height: 18px;
+    }
+
+    .maountain__group {
+        transform: translateX(-78%);
+    }
+
+    .planet__title .text {
+        max-width: 279.376px;
+    }
+
+    .planet__title li {
+        font-size: 13px;
+    }
+
+    .mountain__texts {
+        gap: 10px;
+    }
+
+    .notFound__body h1 {
+        font-size: 115.109px;
+    }
+
+    .notFound__body p {
+        font-size: 12px;
+    }
+
+    .buy {
+        font-size: 10px;
+        background-size: 130%;
+    }
+
+    .notFound__body a {
+        width: 58%;
+    }
+
+    .thanks__body h1 {
+        font-size: 81.109px;
+    }
+
+    .thanks__body p {
+        font-size: 15px;
+    }
+
+    .preFooter>img {
+        top: -13%;
+        width: 249%;
+    }
+
+    .preFooter .text span {
+        font-size: 29px;
+    }
+
+    .preFooter__phone {
+        width: 69%;
+    }
+
+    .preFooter__phone>h1 {
+        font-size: 20px;
+    }
+
+    .preFooter__phone .buy {
+        height: 43px;
+        background-size: 154%;
+        font-size: 12px;
+    }
+
+    .footer {
+        padding-top: 100%;
+    }
+
+    .preFooter>img {
+        top: -13%;
+        width: 232%;
+    }
+
+    .preFooter__phone {
+        transform: translateY(-16%);
+    }
+
+    .footer {
+        padding-top: 64%;
+    }
+
+    .inf__back {
+        top: 64%;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 105% !important;
+    }
+
+    .nature__man {
+        width: 100%;
+    }
+
+    .nature__body {
+        width: 100%;
+    }
+
+    .preFooter__phone {
+        width: 85%;
+    }
+
+    .preFooter__box textarea {
+        height: 143px;
+    }
+
+    .maountain__group {
+        transform: translateX(-95%);
+    }
+
+    .title__top--subtext button {
+        width: 39px;
+    }
+
+    .nature__body button {
+        margin: 10px 0;
+    }
+
+    .maountain__group {
+        transform: translateX(-89%);
+    }
+
+    .nature__body h1 span {
+        font-size: 14px;
+    }
+
+    .nature__body h2 {
+        font-size: 14px;
+        line-height: normal;
+    }
+
+    .nature__body>a {
+        width: 54px;
+    }
+
+    .nature__body>a img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .nature__shadow.right {
+        height: 49px;
+        transform: rotate(-90deg) translateX(34%) translateY(166%);
+    }
+
+    .preFooter>img {
+        top: -1%;
+        width: 232%;
+    }
+
+    .maountain__group {
+        transform: translateX(0);
+    }
+
+    .mountain__subcards h1 {
+        max-width: 209px;
+    }
+
+    .mountain__subcards p {
+        max-width: 221px;
+    }
+
+    .mountain__subcards {
+        max-width: 100%;
+    }
+
+    .mountain__subtext {
+        transform: translateX(0%);
+    }
+
+    .mountain__subcards p {
+        max-width: 100%;
+    }
+
+    .mountain__subcards {
+        max-width: 301px;
+        transform: translateX(-41%);
+    }
+
+    .mountain__bottom {
+        width: 150%;
+    }
+
+    .mountain__rightLeft {
+        width: 140%;
+        transform: translateX(38%);
+    }
+
+    .mountain__fon {
+        width: 150%;
+    }
+
+    .mountain__bottom {
+        width: 150%;
+        transform: translateX(-22%);
+    }
+
+    .gold__mountain {
+        width: 150%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .mountain__rightLeft {
+        width: 162%;
+        transform: translateX(38%);
+    }
+
+    .preFooter>img {
+        top: -9%;
+        width: 266%;
+    }
+
+    .maountain__group {
+        transform: translateX(41%);
+    }
+
+    .mountain__subcards {
+        max-width: 178px;
+    }
+
+    .maountain__group {
+        transform: translateX(34%);
+    }
+
+    .mountain__subcards p {
+        line-height: 17px;
+    }
+
+    .preFooter>img {
+        top: -12.5%;
+        width: 280%;
+    }
+
+    .preFooter__body {
+        gap: 354px;
+    }
+
+    .preFooter>img {
+        top: -10.5%;
+        width: 316%;
+    }
+
+    .maountain__group {
+        transform: translateX(0%);
+    }
+
+    .mountain__subcards {
+        max-width: 226px;
+    }
+
+    .mountain__grafon {
+        transform: translateX(-50%);
+    }
+
+    .footer__body {
+        margin-top: 30px;
+    }
+
+    .footer__blocks a[href^="tel:"] {
+        font-size: 32px;
+    }
+
+    .footer__blocks h1 {
+        font-size: 18px;
+    }
+
+    .footer__sotset {
+        display: flex;
+        gap: 14px;
+    }
+
+    .footer__title {
+        gap: 4px;
+    }
+
+    .footer__title p {
+        font-size: 13px;
+    }
+
+    .footer__body {
+        gap: 37px;
+    }
+
+    .footer__blocks {
+        gap: 14px;
+    }
+
+    .preFooter__check p {
+        max-width: 147px;
+        text-align: left;
+    }
+
+    .preFooter__check span {
+        transform: translateX(-55%);
+        width: 85%;
+    }
+
+    .preFooter__phone .buy {
+        font-size: 16px;
+        width: 68%;
+        height: 61px;
+        background-size: 150%;
+        background-position-y: 11%;
+    }
+
+    .preFooter__phone .buy {
+        margin-top: 16px;
+    }
+
+    .preFooter__phone {
+        width: 86%;
+    }
+
+    .preFooter>img {
+        top: -9.5%;
+        width: 306%;
+    }
+
+    .preFooter .text span {
+        font-size: 24px;
+        max-width: 263px;
+    }
+
+    .preFooter__title {
+        gap: 13px;
+    }
+
+    .smi {
+        margin-bottom: 219px;
+    }
+
+    .swiper-button-next {
+        background-size: 40%;
+    }
+
+    .swiper-button-prev {
+        background-size: 40%;
+    }
+
+    .swiper-pagination-bullet.swiper-pagination-bullet-active {
+        font-size: 14px;
+        transform: translateY(90%);
+    }
+
+    .smi .swiper-button-next,
+    .smi .swiper-rtl .swiper-button-prev {
+        left: 35px;
+    }
+
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: -27px !important;
+    }
+
+    .smi__btns {
+        right: -10%;
+    }
+
+
+    .text {
+        font-size: 24px;
+    }
+
+    .smi {
+        margin-top: 70px;
+    }
+
+    .swiper-button-next.swiper-button-disabled {
+        background-size: 40%;
+    }
+
+    .swiper-button-prev.swiper-button-disabled {
+        background-size: 40%;
+    }
+
+    .books__sub {
+        margin-bottom: 87px;
+    }
+
+    .books .swiper-button-next,
+    .books .swiper-rtl .swiper-button-prev {
+        left: 27px;
+    }
+
+    .books .swiper-button-prev,
+    .books .swiper-rtl .swiper-button-next {
+        left: -34px !important;
+    }
+
+    .books__btns {
+        right: -13%;
+        top: 40px;
+    }
+
+    .company__body .text {
+        margin-bottom: 49px;
+    }
+
+    .company {
+        margin-top: 66px;
+    }
+
+    .messages .swiper-button-next,
+    .messages .swiper-rtl .swiper-button-prev {
+        left: 34px;
+    }
+
+    .messages .swiper-button-prev,
+    .messages .swiper-rtl .swiper-button-next {
+        left: -34px !important;
+    }
+
+    .message__subtitle {
+        margin-bottom: 0;
+    }
+
+    .message__btns {
+        left: 12%;
+    }
+
+    .videoSlide .swiper-slide {
+        height: 267.818px;
+    }
+
+    .video__sub {
+        margin-bottom: 97px;
+    }
+
+    .video__btns .swiper-button-next,
+    .video__btns .swiper-rtl .swiper-button-prev {
+        left: 45px;
+    }
+
+    .expert__subtitle>img {
+        width: 82%;
+    }
+
+    .expert__subtitle h1 {
+        max-width: 297.23px;
+    }
+
+    .expert__book {
+        transform: translateY(-24px) translateX(-50%);
+        position: relative;
+        top: 0;
+        left: 50%;
+        width: 130%;
+    }
+
+    .investers__btns .swiper-button-next,
+    .investers__btns .swiper-rtl .swiper-button-prev {
+        left: 46px;
+    }
+
+    .planet .buy {
+        font-size: 14px;
+        width: 58%;
+        height: 74px;
+    }
+
+    .inf__back {
+        top: 52%;
+        width: 489%;
+    }
+
+    .info__circel {
+        height: 67%;
+    }
+
+    .inf__back {
+        top: 46%;
+        width: 456%;
+    }
+
+    .nature {
+        grid-row-gap: 20px;
+    }
+
+    .nature__title {
+        top: -21%;
+    }
+
+    .nature__card:nth-child(1) {
+        margin-top: 221px;
+    }
+
+    .nature__line {
+        gap: 256px;
+    }
+
+    .gold__mountain {
+        width: 200%;
+    }
+
+    .mountain__cloud {
+        width: 200%;
+    }
+
+    .gold__mountain {
+        width: 169%;
+    }
+
+    .mountain__bottom {
+        width: 200%;
+        transform: translateX(-50%);
+    }
+
+    .mountain__rightLeft {
+        width: 200%;
+        transform: translateX(28%);
+    }
+
+
+    .title__man {
+        width: 100%;
+        left: -25%;
+        top: 257px;
+    }
+
+    .preFooter>img {
+        top: -7%;
+        width: 306%;
+    }
+
+    .investers__btns {
+        margin-left: 31px;
+    }
+
+    .preFooter__box textarea {
+        height: 127px;
+    }
+
+    .preFooter>img {
+        top: -8.5%;
+    }
+
+    .planet__title ul {
+        margin-bottom: 109px;
+    }
+
+    .footer__body {
+        gap: 18px;
+    }
+
+    .footer__title {
+        gap: 12px;
+    }
+
+    .book__card {
+        padding: 14px 16px;
+    }
+
+    .messages__dep img:first-child {
+        width: 242px;
+        height: 242px;
+    }
+
+    .mountain__subcards {
+        transform: translateX(0);
+    }
+
+    .investerSwiper .swiper-slide>div {
+        width: 95%;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 107% !important;
+    }
+}
+
+@media(max-width: 375px) {
+    .container {
+        max-width: 320px;
+    }
+
+    .preFooter__phone>h1 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+
+    .preFooter__box {
+        padding: 15px 16px;
+    }
+
+    .preFooter__box textarea {
+        height: 50px;
+    }
+
+    .preFooter__phone .buy {
+        font-size: 14px;
+        width: 71%;
+        height: 67px;
+        background-size: 136%;
+    }
+
+    .preFooter__check p {
+        font-size: 8px;
+        line-height: normal;
+        max-width: 152px;
+        text-align: center;
+    }
+
+    .preFooter__phone {
+        padding: 58px 20px;
+    }
+
+    .footer {
+        padding-top: 54%;
+    }
+
+    .company__logo img {
+        width: 25%;
+    }
+
+    .expert__subtitle h1 span {
+        font-size: 15px;
+    }
+
+    .expert__subtitle h1 {
+        font-size: 15px;
+    }
+
+    .expert__subtitle h1 {
+        max-width: 239.23px;
+    }
+
+    .expert__subtitle>img {
+        width: 100%;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 110% !important;
+    }
+
+    .investerSwiper .swiper-slide {
+        width: 101% !important;
+    }
+
+    .planet .buy {
+        font-size: 11px;
+        width: 42%;
+        height: 42px;
+        background-size: 129%;
+    }
+
+    .info__circel {
+        height: 77%;
+    }
+
+    .inf__back {
+        top: 74%;
+    }
+
+    .nature__body h1 span {
+        font-size: 16px;
+    }
+
+    .nature__body h1 {
+        line-height: normal;
+    }
+
+    .title__man::before {
+        width: 99%;
+    }
+
+    .title__body {
+        grid-template-rows: 0.8fr 0.8fr 2fr;
+    }
+
+    .mountain__grafon {
+        margin-top: 0;
+    }
+
+    .mountain__subcards {
+        max-width: 189px;
+    }
+
+    .nature__man {
+        width: 110%;
+    }
+
+    .nature__pre>h1 {
+        font-size: 30px;
+    }
+
+    .nature__star img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .nature__star img:nth-child(2) {
+        width: 70px;
+        height: 70px;
+    }
+
+    .mountain__parent {
+        transform: translateY(15%);
+    }
+
+    .info__circel {
+        height: 69%;
+    }
+
+    .inf__back {
+        top: 64%;
+    }
+
+    .planet {
+        padding-bottom: 282px;
+    }
+
+    .preFooter__phone {
+        width: 101%;
+    }
+
+    .preFooter>img {
+        top: 4%;
+    }
+
+    .footer {
+        padding-top: 64%;
+    }
+
+    .preFooter__title {
+        margin-top: -192px;
+    }
+
+    .book__fon {
+        height: 182.564px;
+    }
+
+    .thanks__body h1 {
+        font-size: 71.109px;
+    }
+
+    .thanks__body p {
+        font-size: 14px;
+    }
+
+    .thanks__body {
+        gap: 0;
+    }
+
+    .thanks__body a {
+        width: 42%;
+    }
+
+    .nature__body {
+        width: 100%;
+    }
+
+    .footer {
+        padding-top: 245px;
+    }
+
+    .preFooter__body {
+        gap: 158px;
+    }
+
+    .nature__man {
+        width: 110%;
+    }
+
+    .company__logo img {
+        width: 40%;
+    }
+
+    .preFooter__phone {
+        transform: translateY(9%);
+    }
+
+    .footer {
+        padding-top: 371px;
+    }
+
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: -46px !important;
+        right: auto !important;
+    }
+
+    .books__btns {
+        right: -18%;
+    }
+
+    .swiper-button-prev.swiper-button-disabled {
+        background-size: 17px;
+    }
+
+    .swiper-button-next,
+    .swiper-rtl .swiper-button-prev {
+        left: 44px;
+    }
+
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: -38px !important;
+    }
+
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: -28px !important;
+    }
+
+    .smi__btns {
+        right: -13%;
+    }
+
+    .smi .swiper-button-next,
+    .smi .swiper-rtl .swiper-button-prev {
+        left: 48px;
+    }
+
+    .books .swiper-button-next,
+    .books .swiper-rtl .swiper-button-prev {
+        left: 39px;
+    }
+
+    .message__btns {
+        left: 71%;
+    }
+
+    .video__btns {
+        right: -12%;
+    }
+
+    .maountain__group {
+        transform: translateX(-91%);
+    }
+
+    .nature__man {
+        width: 100%;
+    }
+
+    .smi {
+        margin-bottom: 197px;
+    }
+
+    .book__fon {
+        height: 181.564px;
+    }
+
+    .mountain__subcards {
+        max-width: 301px;
+        transform: translateX(82%);
+    }
+
+    .maountain__group {
+        transform: translateX(-125%);
+    }
+
+    .mountain__texts {
+        transform: translateY(0%);
+    }
+
+    .title__man::before {
+        filter: drop-shadow(2px 4px 21px black);
+    }
+
+    .title__bottom {
+        margin-top: 142px;
+    }
+
+    .mountain__parent {
+        transform: translateY(4%);
+    }
+
+    .mountain__subcards {
+        max-width: 258px;
+        transform: translateX(82%);
+    }
+
+    .nature__body {
+        min-height: 100%;
+    }
+
+    .nature__title {
+        top: -21%;
+    }
+
+    .nature__shadow.right {
+        width: 108%;
+    }
+
+    .preFooter>img {
+        top: 2%;
+        width: 242%;
+    }
+
+    .maountain__group {
+        transform: translateX(-73%);
+    }
+
+    .mountain__subcards {
+        max-width: 193px;
+    }
+
+    .maountain__group {
+        transform: translateX(-84%);
+    }
+
+    .mountain__subcards {
+        max-width: 178px;
+    }
+
+    .mountain__subcards {
+        max-width: 212px;
+    }
+
+    .mountain__subcards {
+        transform: translateX(0%);
+    }
+
+    .maountain__group {
+        transform: translateX(-34%);
+    }
+
+    .footer__body {
+        margin-top: 20px;
+    }
+
+    .footer__blocks a[href^="tel:"] {
+        font-size: 28px;
+    }
+
+    .footer__blocks h1 {
+        font-size: 18px;
+    }
+
+    .footer__title p {
+        font-size: 12px;
+    }
+
+    .footer__body {
+        gap: 37px;
+    }
+
+    .footer__title {
+        gap: 4px;
+    }
+
+    .footer__blocks {
+        gap: 14px;
+    }
+
+    .footer__sotset {
+        display: flex;
+        gap: 14px;
+    }
+
+    .footer {
+        background-size: 449%;
+    }
+
+    .preFooter__phone {
+        padding: 26px 13px;
+    }
+
+    .preFooter__box textarea {
+        height: 117px;
+    }
+
+    .preFooter__check p {
+        text-align: left;
+    }
+
+    .preFooter__check span {
+        transform: translateX(-55%);
+        width: 85%;
+    }
+
+    .preFooter__phone .buy {
+        font-size: 12px;
+        width: 60%;
+        height: 39px;
+        background-size: 100%;
+        margin-top: 0;
+    }
+
+    .preFooter__form {
+        gap: 6px;
+    }
+
+    .preFooter__phone>h1 {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+
+    .preFooter__phone .buy {
+        font-size: 16px;
+        width: 68%;
+        height: 61px;
+        background-size: 150%;
+        background-position-y: 11%;
+    }
+
+    .preFooter__phone .buy {
+        margin-top: 16px;
+    }
+
+    .preFooter__check {
+        margin-top: 14px;
+    }
+
+    .preFooter__phone {
+        padding-top: 36px;
+    }
+
+    .preFooter>img {
+        top: -1%;
+        width: 255%;
+    }
+
+    .preFooter .text span {
+        font-size: 24px;
+        max-width: 263px;
+    }
+
+    .preFooter__title {
+        gap: 13px;
+    }
+
+    .smi {
+        margin-bottom: 219px;
+    }
+
+    .swiper-button-next {
+        background-size: 40%;
+    }
+
+    .swiper-button-prev {
+        background-size: 40%;
+    }
+
+    .swiper-pagination-bullet.swiper-pagination-bullet-active {
+        font-size: 14px;
+        transform: translateY(90%);
+    }
+
+    .smi .swiper-button-next,
+    .smi .swiper-rtl .swiper-button-prev {
+        left: 35px;
+    }
+
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+        left: -27px !important;
+    }
+
+    .smi__btns {
+        right: -10%;
+    }
+
+    .text {
+        font-size: 24px;
+    }
+
+    .book__fon {
+        height: 170.564px;
+    }
+
+    .smi {
+        margin-top: 70px;
+    }
+
+    .swiper-button-next.swiper-button-disabled {
+        background-size: 40%;
+    }
+
+    .swiper-button-prev.swiper-button-disabled {
+        background-size: 40%;
+    }
+
+    .books__sub {
+        margin-bottom: 87px;
+    }
+
+    .books .swiper-button-next,
+    .books .swiper-rtl .swiper-button-prev {
+        left: 27px;
+    }
+
+    .books .swiper-button-prev,
+    .books .swiper-rtl .swiper-button-next {
+        left: -34px !important;
+    }
+
+    .books__btns {
+        right: -13%;
+        top: 40px;
+    }
+
+    .company__body .text {
+        margin-bottom: 49px;
+    }
+
+    .company {
+        margin-top: 66px;
+    }
+
+    .messages .swiper-button-next,
+    .messages .swiper-rtl .swiper-button-prev {
+        left: 34px;
+    }
+
+    .messages .swiper-button-prev,
+    .messages .swiper-rtl .swiper-button-next {
+        left: -34px !important;
+    }
+
+    .message__subtitle {
+        margin-bottom: 0;
+    }
+
+    .message__btns {
+        left: 17%;
+    }
+
+    .videoSlide .swiper-slide {
+        height: 267.818px;
+    }
+
+    .video__sub {
+        margin-bottom: 97px;
+    }
+
+    .expert__subtitle>img {
+        width: 82%;
+    }
+
+    .expert__subtitle h1 {
+        max-width: 261.23px;
+    }
+
+    .expert__card--body {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .expert__book {
+        transform: translateY(-24px) translateX(-50%);
+        position: relative;
+        top: 0;
+        left: 50%;
+        width: 130%;
+    }
+
+    .investers__btns {
+        margin-left: 25px;
+    }
+
+    .planet .buy {
+        width: 50%;
+        height: 52px;
+        background-size: 129%;
+    }
+
+    .inf__back {
+        top: 52%;
+        width: 489%;
+    }
+
+    .planet__title li {
+        line-height: 18px;
+    }
+
+    .nature__body h1 {
+        font-size: 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 7px;
+    }
+
+    .nature__body h1 span {
+        font-size: 11px;
+    }
+
+    .nature__body h2 {
+        font-size: 11px;
+    }
+
+
+    .gold__mountain {
+        width: 200%;
+    }
+
+    .mountain__cloud {
+        width: 200%;
+    }
+
+    .gold__mountain {
+        width: 169%;
+    }
+
+    .mountain__bottom {
+        width: 200%;
+        transform: translateX(-50%);
+    }
+
+    .mountain__rightLeft {
+        width: 200%;
+        transform: translateX(28%);
+    }
+
+    .nature__body {
+        padding: 10px 10px;
+    }
+
+    .nature__card {
+        height: 200px;
+    }
+
+    .nature {
+        grid-row-gap: 88px;
+    }
+
+    .nature__title {
+        top: -27%;
+    }
+
+    .inf__back {
+        top: 50%;
+        width: 489%;
+    }
+
+    .nature__card:nth-child(1) {
+        margin-top: 101px;
+    }
+
+    .mountain__cloud {
+        width: 156%;
+        margin-bottom: 374px;
+    }
+
+    .title__man {
+        width: 100%;
+        left: -25%;
+        top: 257px;
+    }
+
+    .planet__title ul {
+        margin-bottom: 73px;
+    }
+
+    .footer__title {
+        gap: 12px;
+    }
+
+    .messages__dep img:first-child {
+        width: 229px;
+        height: 209px;
+    }
+
+    .messages__dep {
+        justify-content: space-between;
+    }
+}

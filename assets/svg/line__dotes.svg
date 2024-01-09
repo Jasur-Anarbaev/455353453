@@ -1,0 +1,30 @@
+<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="7.58203" y="13.3101" width="1.71991" height="1.71991" fill="white" />
+    <rect x="9.30176" y="15.03" width="1.71991" height="1.71991" fill="white" />
+    <rect x="5.86182" y="15.03" width="1.71991" height="1.71991" fill="white" />
+    <rect width="1.71991" height="1.71991" transform="matrix(1 0 0 -1 7.58203 3.43982)" fill="white" />
+    <rect width="1.71991" height="1.71991" transform="matrix(1 0 0 -1 9.30176 1.71985)" fill="white" />
+    <rect width="1.71991" height="1.71991" transform="matrix(1 0 0 -1 5.86182 1.71985)" fill="white" />
+    <rect width="1.71991" height="1.71991"
+        transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 3.75049 9.19714)" fill="white" />
+    <rect width="1.71991" height="1.71991"
+        transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 2.03076 7.47729)" fill="white" />
+    <rect width="1.71991" height="1.71991"
+        transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 2.03076 10.9171)" fill="white" />
+    <rect x="13.5601" y="9.19714" width="1.71991" height="1.71991"
+        transform="rotate(-90 13.5601 9.19714)" fill="white" />
+    <rect x="15.2798" y="7.47729" width="1.71991" height="1.71991"
+        transform="rotate(-90 15.2798 7.47729)" fill="white" />
+    <rect x="15.2798" y="10.9171" width="1.71991" height="1.71991"
+        transform="rotate(-90 15.2798 10.9171)" fill="white" />
+    <rect x="11.8398" y="11.2117" width="1.71991" height="1.71991" fill="white" />
+    <rect x="13.5596" y="12.9316" width="1.71991" height="1.71991" fill="white" />
+    <rect width="1.71991" height="1.71991" transform="matrix(1 0 0 -1 11.8398 5.15967)" fill="white" />
+    <rect width="1.71991" height="1.71991" transform="matrix(1 0 0 -1 13.5596 3.43982)" fill="white" />
+    <rect width="1.71991" height="1.71991" transform="matrix(-1 0 0 1 5.47021 11.2117)" fill="white" />
+    <rect width="1.71991" height="1.71991" transform="matrix(-1 0 0 1 3.75049 12.9316)" fill="white" />
+    <rect x="5.47021" y="5.15967" width="1.71991" height="1.71991"
+        transform="rotate(180 5.47021 5.15967)" fill="white" />
+    <rect x="3.75049" y="3.43982" width="1.71991" height="1.71991"
+        transform="rotate(180 3.75049 3.43982)" fill="white" />
+</svg>
